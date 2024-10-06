@@ -18,21 +18,21 @@ Welcome to my blog! Below, you'll find my latest posts on programming, DevOps, a
 
 ## Latest Posts
 
-### 1. [Mastering Docker: A Beginner's Guide](docker.md) 🐳
+### 1. [Mastering Docker: A Beginner's Guide](blog/docker.md) 🐳
 **Published:** October 2024  
 Docker has changed how I think about deploying applications. In this post, I break down the basics of Docker, why it's important, and how to get started.
 - **Tags:** Docker, Containers, DevOps
 
 ---
 
-### 2. [Understanding Object-Oriented Programming (OOP) in Python](oop.md) 🐍
+### 2. [Understanding Object-Oriented Programming (OOP) in Python](blog/oop.md) 🐍
 **Published:** September 2024  
 Ever wondered how to structure your Python code better? Dive into Object-Oriented Programming (OOP) and learn the foundational concepts.
 - **Tags:** Python, OOP, Programming
 
 ---
 
-### 3. [Scaling with Kubernetes: My First Steps](kubernetes.md) ⚙️
+### 3. [Scaling with Kubernetes: My First Steps](blog/kubernetes.md) ⚙️
 **Published:** August 2024  
 Kubernetes can be intimidating, but it's also fascinating! In this post, I document my first steps with Kubernetes and explain how I got started with container orchestration.
 - **Tags:** Kubernetes, Docker, Containers
