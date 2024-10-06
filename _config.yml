@@ -1,3 +1,26 @@
+# Basic Jekyll Configuration
+
+# The base URL of your site (useful if your site is published under a subpath)
+baseurl: ""  # Leave this empty if your site is at the root of a domain
+
+# The directory where your markdown files are located
+source: .
+
+# Title of your site
+title: "Art's Learning Hub"
+
+# The markdown processor
+markdown: kramdown
+
+# Where your posts, pages, and assets should be generated
+destination: ./_site
+
+# Exclude these files from being processed by Jekyll
+exclude:
+  - README.md
+
+# Any other configuration settings you want to define
+
 # Where things are
 source              : .
 destination         : ./_site
