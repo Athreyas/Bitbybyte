@@ -2,7 +2,7 @@
 [Home](index.md) | [Blog](blog.md) | [Projects](projects.md) | [About](about.md)
 --- 
 
-# Welcome to Art's Learning Hub! 🚀
+# Welcome to BitByByte! 🚀
 
 ![Art8](https://github.com/athreyas.png?size=200) 
 
