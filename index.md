@@ -1,6 +1,11 @@
+# Navigation
+
+[Home](index.md) | [Blog](blog.md) | [Projects](projects.md) | [About](about.md)
+--- 
+
 # Welcome to Art's Learning Hub! 🚀
 
-![Profile](https://github.com/username.png?size=200) <!-- Replace with your actual GitHub username -->
+![Art8](https://github.com/athreyas.png?size=200) 
 
 Hello, I’m **Art**, a Site Reliability Engineer (SRE) passionate about infrastructure, coding, and learning new technologies. This is my personal space where I document all the cool things I’m learning! Whether it's **Python scripting**, **Docker** containers, or the wonders of **Kubernetes**, you'll find everything here.
 
