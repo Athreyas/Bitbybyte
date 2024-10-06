@@ -4,7 +4,7 @@
 
 ## BitbyByte Blog! 🚀 
 
-![Profile](https://github.com/athreyas.png?size=200) <!-- Replace with your actual GitHub username -->
+![Profile](https://github.com/athreyas.png?size=80) <!-- Replace with your actual GitHub username -->
 
 Hello! I’m **Art**, a Site Reliability Engineer (SRE) passionate about technology, coding, and learning new tools. On this blog, I share my journey of learning, and experimenting with Python, Docker, Kubernetes, and other cool technologies. Grab a cup of coffee ☕️ and explore my thoughts and projects!
 
