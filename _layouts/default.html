@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+</head>
+<body>
+    <!-- Header that will appear on all pages -->
+    <header>
+        <nav>
+            [<a href="{{ site.baseurl }}/index.md">Home</a>] |
+            [<a href="{{ site.baseurl }}/blog.md">Blog</a>] |
+            [<a href="{{ site.baseurl }}/projects.md">Projects</a>] |
+            [<a href="{{ site.baseurl }}/about.md">About</a>]
+        </nav>
+    </header>
+
+    <!-- Page content -->
+    <main>
+        {{ content }}
+    </main>
+
+    <!-- Optional footer if you want to include it globally -->
+    <footer>
+        <p>&copy; {{ site.time | date: "%Y" }} BitByByte by Art. All rights reserved.</p>
+    </footer>
+</body>
+</html>
