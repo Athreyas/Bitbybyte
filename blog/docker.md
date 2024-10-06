@@ -1,3 +1,6 @@
+[Home](index.md) | [Blog](blog.md) | [Projects](projects.md) | [About](about.md)
+--- 
+
 # Mastering Docker: A Beginner's Guide 🐳
 
 **Published:** October 2024
