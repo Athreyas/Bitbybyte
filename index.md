@@ -3,7 +3,7 @@
 
 # Welcome to BitByByte! 🚀
 
-![Art8](https://github.com/athreyas.png?size=200) 
+![Art8](https://github.com/athreyas.png?size=80) 
 
 Hello, I’m **Art**, a Site Reliability Engineer (SRE) passionate about infrastructure, coding, and learning new technologies. This is my personal space where I document all the cool things I’m learning! Whether it's **Python scripting**, **Docker** containers, or the wonders of **Kubernetes**, you'll find everything here.
 
