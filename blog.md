@@ -2,7 +2,7 @@
 [Home](index.md) | [Blog](blog.md) | [Projects](projects.md) | [About](about.md)
 --- 
 
-## 🚀 Welcome to BitbyByte Blog!
+## BitbyByte Blog! 🚀 
 
 ![Profile](https://github.com/athreyas.png?size=200) <!-- Replace with your actual GitHub username -->
 
