@@ -1,3 +1,6 @@
+[Home](index.md) | [Blog](blog.md) | [Projects](projects.md) | [About](about.md)
+--- 
+
 # Learning Object-Oriented Programming (OOP) Using Python: A Beginner's Journey
 
 Welcome to **Learning Hub**, where I'm documenting my journey of learning various topics with the help of AI. In this post, we'll cover two important topics: **Object-Oriented Programming (OOP)**. I'll explain them in a super simple way, perfect for beginners or anyone looking for a refresh!
