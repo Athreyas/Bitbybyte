@@ -5,3 +5,8 @@
 ## About Me
 
 Welcome to the About Me page! Here I share some information about myself.
+
+
+### Contact Me
+
+You can contact me at: [myemail@example.com](mailto:myemail@example.com)
