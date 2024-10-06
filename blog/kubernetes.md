@@ -1,3 +1,6 @@
+[Home](index.md) | [Blog](blog.md) | [Projects](projects.md) | [About](about.md)
+--- 
+
 # Scaling with Kubernetes: My First Steps ⚙️
 
 **Published:** August 2024
