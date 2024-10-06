@@ -1,4 +1,4 @@
-# Bitbybyte
+# BitbyByte
 
 Welcome to the repository for my **BitbyByte** website! This is where I document everything about programming, DevOps, and other technical topics.
 
