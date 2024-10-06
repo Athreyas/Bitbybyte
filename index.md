@@ -35,7 +35,7 @@ As I’m currently training for a half marathon, I’m developing a Python app t
 
 ### 2. **Learning Hub Blog** ✍️
 This website! It's powered by GitHub Pages, and I’m using it to document everything I’m learning.
-- [About Learning Hub](about.md)
+- [About BitbyByte blog](blog.md)
 
 ---
 
@@ -43,13 +43,6 @@ This website! It's powered by GitHub Pages, and I’m using it to document every
 Feel free to connect with me through the links below:
 - [GitHub Profile](https://github.com/username) <!-- Replace with your actual GitHub username -->
 - [Twitter](https://twitter.com/username) <!-- Replace with your actual Twitter username -->
-
----
-
-## 💡 Recent Blog Posts
-Here are a few things I’ve written about recently:
-- [Learning Docker](docker.md)
-- [Object-Oriented Programming in Python](oop.md)
 
 ---
 
