@@ -10,26 +10,46 @@ Hello! I’m **Art**, a Site Reliability Engineer (SRE) passionate about technol
 
 ---
 
-## 📝 Recent Blog Posts
+## 📝 Blog Posts
+
+Welcome to my blog! Below, you'll find my latest posts on programming, DevOps, and more. I update this list regularly, so the newest posts always appear at the top.
+
+---
+
+## Latest Posts
 
 ### 1. [Mastering Docker: A Beginner's Guide](docker.md) 🐳
+**Published:** October 2024  
 Docker has changed how I think about deploying applications. In this post, I break down the basics of Docker, why it's important, and how to get started.
-- **Published:** October 2024
 - **Tags:** Docker, Containers, DevOps
 
 ---
 
 ### 2. [Understanding Object-Oriented Programming (OOP) in Python](oop.md) 🐍
+**Published:** September 2024  
 Ever wondered how to structure your Python code better? Dive into Object-Oriented Programming (OOP) and learn the foundational concepts.
-- **Published:** September 2024
 - **Tags:** Python, OOP, Programming
 
 ---
 
 ### 3. [Scaling with Kubernetes: My First Steps](kubernetes.md) ⚙️
+**Published:** August 2024  
 Kubernetes can be intimidating, but it's also fascinating! In this post, I document my first steps with Kubernetes and explain how I got started with container orchestration.
-- **Published:** August 2024
 - **Tags:** Kubernetes, Docker, Containers
+
+---
+
+## Earlier Posts
+
+### [Getting Started with Python Scripting](python-scripting.md) 🐍  
+**Published:** July 2024  
+Python scripting is one of the core skills for any SRE. In this post, I share tips and tricks for getting started with Python scripting.
+- **Tags:** Python, Scripting, Automation
+
+### [Introduction to Site Reliability Engineering (SRE)](sre-introduction.md) 🛠️  
+**Published:** June 2024  
+What is Site Reliability Engineering (SRE), and why is it important? This post provides a high-level overview of SRE practices and how they improve reliability.
+- **Tags:** SRE, DevOps, Automation
 
 ---
 
