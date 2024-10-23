@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BitByByte - Art's Learning Hub
+title: "Home"
 ---
 
 ## Welcome to BitByByte! 🚀
