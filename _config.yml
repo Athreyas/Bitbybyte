@@ -1,3 +1,10 @@
-title: BitByByte - Art's Learning Hub
-description: Art's personal blog on coding and technology
+title: "BitByByte - Art's Learning Hub"
+description: "Art's personal blog on coding and technology"
 theme: minima
+baseurl: "" # The subpath of your site, e.g. /blog
+url: "https://athreyas.github.io" # Your GitHub Pages URL
+author:
+  name: "Art"
+  email: "your-email@example.com"
+markdown: kramdown
+highlighter: rouge
