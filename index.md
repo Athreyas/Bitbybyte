@@ -1,4 +1,4 @@
-[Home](index.md) | [Blog](blog.md) | [Projects](projects.md) | [About](about.md)
+[Home](index.md) | [Blog](blog.md) | [Projects](projects.md) | [Fitness](fitness.md) | [About](about.md)
 --- 
 
 # Welcome to BitByByte! 🚀
