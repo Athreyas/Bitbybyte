@@ -3,6 +3,15 @@ layout: default
 title: "Home"
 ---
 
+<header>
+  <nav>
+    <a href="index.html">Home</a> |
+    <a href="blog.html">Blog</a> |
+    <a href="projects.html">Projects</a> |
+    <a href="about.html">About</a>
+  </nav>
+</header>
+
 ## Welcome to BitByByte! 🚀
 
 ![Art's Profile](https://github.com/athreyas.png?size=80)
