@@ -60,14 +60,21 @@ Feel free to connect with me through the links below:
 _Thank you for visiting my Learning Hub! Let’s build, learn, and share knowledge together._ 💻🌱
 
 <style>
-body {
+  body {
     background-color: #121212;
     color: #e0e0e0;
-}
-a {
+  }
+  header {
+    background-color: #1e1e1e;
+    padding: 10px;
+    text-align: center;
+  }
+  nav a {
     color: #bb86fc;
-}
-h1, h2, h3 {
-    color: #cf6679;
-}
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  nav a:hover {
+    color: #03dac6;
+  }
 </style>
