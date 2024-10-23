@@ -2,7 +2,7 @@
 
 Welcome to the repository for my **BitbyByte** website! This is where I document everything about programming, DevOps, and other technical topics.
 
-- **Website URL**: [https://athreyas.github.io/bitbybyte](https://athreyas.github.io/bitbybyte)
+- **Website URL**: [https://athreyas.github.io/bitbybyte](https://athreyas.github.io/Bitbybyte/) 
 - **Topics Covered**: Python, Docker, Kubernetes, OOP, and more!
 
 ## Structure of the Repository
