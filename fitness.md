@@ -11,7 +11,7 @@ Hello, and welcome to my fitness blog! I'm thrilled to have you here as I share 
 ### 🏋️‍♂️ Workout Plans
 Explore a variety of workout routines tailored for different fitness levels. From strength training to cardio, I share my personal plans along with tips on how to adapt them to your needs.
 
-- Check out my [Week 1 Fitness Plan](#week-1) for a structured workout routine!
+- Check out my [Week 1 Fitness Plan](fitness/weekly-workout-plan.md#week-1) for a structured workout routine!
 
 ### 🍏 Nutrition Tips
 Discover delicious and nutritious vegetarian recipes that fuel my workouts and help me maintain a balanced diet. I’ll also share meal prep ideas and snack suggestions to keep you energized throughout the day.
