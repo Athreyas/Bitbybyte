@@ -34,7 +34,7 @@ For me, fitness is more than just a hobby; it's a lifestyle. It empowers me to c
 
 Ready to embark on your own fitness journey? Check out my latest posts below for inspiration!
 
-- [Weekly Workout Plan](#)
+- [Weekly Workout Plan](fitness/weekly-workout-plan.md)
 - [Healthy Meal Ideas](#)
 - [Mindfulness Techniques](#)
 
