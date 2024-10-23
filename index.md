@@ -1,9 +1,11 @@
-[Home](index.md) | [Blog](blog.md) | [Projects](projects.md) | [Fitness](fitness.md) | [About](about.md)
---- 
+---
+layout: default
+title: BitByByte - Art's Learning Hub
+---
 
-# Welcome to BitByByte! 🚀
+## Welcome to BitByByte! 🚀
 
-![Art8](https://github.com/athreyas.png?size=80) 
+![Art's Profile](https://github.com/athreyas.png?size=80)
 
 Hello, I’m **Art**, a Site Reliability Engineer (SRE) passionate about infrastructure, coding, and learning new technologies. This is my personal space where I document all the cool things I’m learning! Whether it's **Python scripting**, **Docker** containers, or the wonders of **Kubernetes**, you'll find everything here.
 
@@ -28,13 +30,14 @@ I primarily work with **Ansible** to manage and automate infrastructure tasks. I
 ---
 
 ## 🔧 Projects I'm Working On:
+
 ### 1. **Half Marathon Training App** 🏃‍♂️
 As I’m currently training for a half marathon, I’m developing a Python app that helps runners track progress and improve breathing techniques during runs.
 - [Half Marathon Training App](projects/half-marathon.md)
 
 ### 2. **Learning Hub Blog** ✍️
 This website! It's powered by GitHub Pages, and I’m using it to document everything I’m learning.
-- [About BitbyByte blog](blog.md)
+- [About BitByByte blog](blog.md)
 
 ---
 
@@ -46,3 +49,16 @@ Feel free to connect with me through the links below:
 ---
 
 _Thank you for visiting my Learning Hub! Let’s build, learn, and share knowledge together._ 💻🌱
+
+<style>
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+a {
+    color: #bb86fc;
+}
+h1, h2, h3 {
+    color: #cf6679;
+}
+</style>
